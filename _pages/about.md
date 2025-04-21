@@ -26,6 +26,7 @@ I graduated from Southeast University with a master's degree, advised by [Yangan
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 2025 CCTV ChunWan wonderful 4K HDR bullet effect.
 - *2024.03*: &nbsp;🎉🎉 Two papers are accepted by ECCV 2024. 
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024 as oral. 
 
@@ -47,7 +48,7 @@ I have worked on the following projects in Alibaba:
 - Indoor scene reconstruction and roaming, including [Lite version](https://lyj.alibaba.com/#/) based on 360 camera and [Full version](https://www.holoworld.com.cn/)  based on LIDAR.
 - [Object reconstruction and generation](https://modelscope.cn/studios/lelolul/3D_AIGC) in modelscope.
 - Image animation in Tongyi APP.
-- [Bullet time effects](https://www.bilibili.com/video/BV17KFhegEDn/?spm_id_from=333.788.recommend_more_video.0) in 2025 CCTV ChunWan.
+- [Bullet time effects](https://www.bilibili.com/video/BV17KFhegEDn/?spm_id_from=333.788.recommend_more_video.0).
 
 # 🎖 Honors and Awards
 - *2020.11*  China National Scholarship (Top 5%)
