@@ -20,7 +20,7 @@ redirect_from:
 
 I work at Alibaba Tongyi <img src='./images/alibaba.png' style='width: 6em;'> as an algorithm engineer. 
 
-I am now working on 3D reconstrution and generation. Please feel free to email me at [bushe.zzy@alibaba-inc.com](bushe.zzy@alibaba-inc.com).
+I am working on 3D reconstrution and generation, and I am a member of group [3D AIGC](https://github.com/aigc3d). Please feel free to email me at [bushe.zzy@alibaba-inc.com](bushe.zzy@alibaba-inc.com).
 
 I graduated from Southeast University with a master's degree, advised by [Yangang Wang (王雁刚)](https://www.yangangwang.com/) and [Siyu Xia (夏思宇)](https://www.siyuxia.com/). 
 
