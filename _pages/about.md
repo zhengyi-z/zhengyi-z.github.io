@@ -17,42 +17,47 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I work at Alibaba Tongyi <img src='./images/alibaba.png' style='width: 6em;'> as an algorithm engineer. 
+
+I am now working on 3D reconstrution and generation. Please feel free to email me at [bushe.zzy@alibaba-inc.com](bushe.zzy@alibaba-inc.com).
+
+I graduated from Southeast University with a master's degree, advised by [Yangang Wang (王雁刚)](https://www.yangangwang.com/) and [Siyu Xia (夏思宇)](https://www.siyuxia.com/). 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.03*: &nbsp;🎉🎉 Two papers are accepted by ECCV 2024. 
+- *2024.01*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024 as oral. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- `Tech Report 2025` [MCMat: Multiview-Consistent and Physically Accurate PBR Material Generation](https://arxiv.org/abs/2412.14148) Shenhao Zhu*, Lingteng Qiu*, Xiaodong Gu*, **Zhengyi Zhao***, Chao Xu, Yuxiao He, Zhe Li, Xiaoguang Han, Yao Yao, Xun Cao, Siyu Zhu, Weihao Yuan, Zilong Dong, Hao Zhu | [project](https://lingtengqiu.github.io/2024/MCMat/)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- `ECCV 2024` [An Optimization Framework to Enforce Multi-View Consistency for Texturing 3D Meshes](https://arxiv.org/abs/2403.15559), **Zhengyi Zhao**, Chen Song, Xiaodong Gu, Yuan Dong, Qi Zuo, Weihao Yuan, Liefeng Bo, Zilong Dong, Qixing Huang | [project](https://aigc3d.github.io/ConsistenTex/)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- `ECCV 2024` [High-Fidelity 3D Textured Shapes Generation by Sparse Encoding and Adversarial Decoding](https://eccv.ecva.net/virtual/2024/poster/577), Qi Zuo, Xiaodong Gu, Yuan Dong, **Zhengyi Zhao**, Weihao Yuan, Lingteng Qiu, Liefeng Bo, Zilong Dong
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- `CVPR 2024`<span style="color:red">(Oral)</span> [Gpld3d: Latent diffusion of 3d shape generative models by enforcing geometric and physical priors](https://openaccess.thecvf.com/content/CVPR2024/papers/Dong_GPLD3D_Latent_Diffusion_of_3D_Shape_Generative_Models_by_Enforcing_CVPR_2024_paper.pdf), Yuan Dong, Qi Zuo, Xiaodong Gu, Weihao Yuan, **Zhengyi Zhao**, Zilong Dong, Liefeng Bo, Qixing Huang | [project](https://aigc3d.github.io/GPLD3D/)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- `Tech Report 2022` [PanoViT: Vision Transformer for Room Layout Estimation from a Single Panoramic Image](https://arxiv.org/abs/2212.12156), Weichao Shen, Yuan Dong, Zonghao Chen, **Zhengyi Zhao**, Yang Gao, Zhu Liu. 
+- `ICASSP 2020` [Hand-3d-studio: A new multi-view system for 3d hand reconstruction](https://www.yangangwang.com/papers/icassp2020-hand3dstudio/ZHAO-H3D-2020-02.pdf), **Zhengyi Zhao**, Tianyao Wang, Siyu Xia and Yangang Wang. | [project](https://www.yangangwang.com/papers/icassp2020-hand3dstudio/ZHAO-H3S-2020-02.html)
+
+# 💾 Projects
+I have worked on the following projects in Alibaba:
+- Indoor scene reconstruction and roaming, including [Lite version](https://lyj.alibaba.com/#/) based on 360 camera and [Full version](https://www.holoworld.com.cn/)  based on LIDAR.
+- [Object reconstruction and generation](https://modelscope.cn/studios/lelolul/3D_AIGC) in modelscope.
+- Image animation in Tongyi APP.
+- [Bullet time effects](https://www.bilibili.com/video/BV17KFhegEDn/?spm_id_from=333.788.recommend_more_video.0) in 2025 CCTV ChunWan.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.11*  China National Scholarship (Top 5%)
+- *2018-2019*  First-class Academic Scholarship of Southeast University*2
+- *2018.01*  Outstanding students of Northeastern University (Undergraduate) (Top 5%)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.09 - 2021.06*, Master, [Southeast University](https://www.seu.edu.cn), Nanjing.
+- *2014.09 - 2018.06*, Undergraduate, [Northeastern University](https://www.neu.edu.cn), Shenyang.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2020.07 - 2020.09*, [Alibaba DAMO Academy](https://damo.alibaba.com/), China.
